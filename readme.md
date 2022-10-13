@@ -31,6 +31,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 2: It honestly took me way to long to make the HashMap because of all the braces, went pretty smoothly apart from that though.
 
+* day 3: Pretty fun, went smoothly, too bad my solution for part 2 is a _bit_ verbose, but its pretty fast so its fine.
+
 ---
 
 Thanks for reading!
