@@ -3,7 +3,15 @@
 I was trying to find some challanges to work on to improve my rust skills,
 and this was basically the most fun thing for me to do.
 
+I chose 2016 specifically since I have already done most of 2021 and 2015 in python.
+
+I might try to finish those one day but that's neither here nor there.
+
+I'm also going to _try_ and finish all this year but I expect it to become really difficult to make an algorithm that finishes in a reasonable amount of time (multiple minutes) around day 20.
+
 ---
+
+### Run
 
 I didn't make any CLI or anything similar so if you want to run it replace the day and part number with the one you want to solve.
 
