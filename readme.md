@@ -27,7 +27,9 @@ If you want your own input replace `input.txt` with your input and recompile.
 
 A bit of text describing my expierence with creating a solution for a specefic day.
 
-* day 1: A lot of small bugs today, mostly type mismatches with different types of ints, understandable but annoying
+* day 1: A lot of small bugs today, mostly type mismatches with different types of ints, understandable but annoying.
+
+* day 2: It honestly took me way to long to make the HashMap because of all the braces, went pretty smoothly apart from that though.
 
 ---
 
