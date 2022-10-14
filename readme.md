@@ -33,6 +33,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 3: Pretty fun, went smoothly, too bad my solution for part 2 is a _bit_ verbose, but its pretty fast so its fine.
 
+* day 4: Nothing wrong with the first part but the second part is really annoying to manually check all lines to see if it's the one I need because it doesn't tell me what I'm looking for.
+
 ---
 
 Thanks for reading!
