@@ -35,6 +35,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 4: Nothing wrong with the first part but the second part is really annoying to manually check all lines to see if it's the one I need because it doesn't tell me what I'm looking for.
 
+* day 5: Brute force hashing, how fun. Also it took me half an hour to debug this because no one told me ``>>`` has priority over ``&`` and I almost went insane. This day also made me install a dependency and takes way to long to run in debug mode.
+
 ---
 
 Thanks for reading!
