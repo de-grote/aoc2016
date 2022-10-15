@@ -37,6 +37,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 5: Brute force hashing, how fun. Also it took me half an hour to debug this because no one told me ``>>`` has priority over ``&`` and I almost went insane. This day also made me install a dependency and takes way to long to run in debug mode.
 
+* day 6: I tried way to long to see if I could get my code to compile using the lenght of one line, but after way too much time I just put in 8 and gave up on that, the rest of the day was doable and part 2 was just changing a max to a min so that was easy.
+
 ---
 
 Thanks for reading!
