@@ -39,6 +39,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 6: I tried way to long to see if I could get my code to compile using the lenght of one line, but after way too much time I just put in 8 and gave up on that, the rest of the day was doable and part 2 was just changing a max to a min so that was easy.
 
+* day 7: Gotta love regex (and debugging). Also fancy-regex > regex.
+
 ---
 
 Thanks for reading!
