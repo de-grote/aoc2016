@@ -41,6 +41,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 7: Gotta love regex (and debugging). Also fancy-regex > regex.
 
+* day 8: Pretty doable, and part 2 wasn't really harder than part 1, also why is there no ``Default::default()`` for large arrays?
+
 ---
 
 Thanks for reading!
