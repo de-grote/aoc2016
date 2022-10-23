@@ -8,10 +8,11 @@ mod day05;
 mod day06;
 mod day07;
 mod day08;
+mod day09;
 
 fn main() {
     let before = time::SystemTime::now();
-    day08::part2::solve().expect("invalid input");
+    day09::part2::solve().expect("invalid input");
     let after = time::SystemTime::now();
     println!("solved in: {:?}", after.duration_since(before).unwrap());
 }

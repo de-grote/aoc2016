@@ -43,6 +43,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 8: Pretty doable, and part 2 wasn't really harder than part 1, also why is there no ``Default::default()`` for large arrays?
 
+* day 9: Doable if it wasn't for me using the worst names possible for variables, also gotta love recursion over impure functions.
+
 ---
 
 Thanks for reading!
