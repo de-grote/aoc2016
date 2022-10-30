@@ -45,6 +45,8 @@ A bit of text describing my expierence with creating a solution for a specefic d
 
 * day 9: Doable if it wasn't for me using the worst names possible for variables, also gotta love recursion over impure functions.
 
+* day 10: Loved the moment when I realised all the commands had to be executed when possable instead of in order and I had to rewrite all my code.
+
 ---
 
 Thanks for reading!
